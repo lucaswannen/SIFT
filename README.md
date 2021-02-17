@@ -5,3 +5,4 @@ The "Application" part is an implementation of the SIFT algorithm, which consist
 The "Implementation" part is a reimplementation of the sift algorithm, performed by Pierre Millet.
 
 
+The explanations and description of the code are available in description_du_code.pdf
