@@ -7,8 +7,7 @@ The "Implementation" part is a reimplementation of the sift algorithm, performed
 
 Theory, explanations and description of the code are available in description_du_code.pdf
 
-![Description du code :](https://github.com/lucaswannen/SIFT/blob/main/Description_du_code.pdf "some discription")
+![Description du code :](Description_du_code.pdf "some discription")
 
 <image src="https://github.com/lucaswannen/SIFT/blob/main/Description_du_code.pdf"/>
 
-[embed]http://example.com/file.pdf[/embed]
