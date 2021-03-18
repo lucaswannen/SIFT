@@ -7,7 +7,9 @@ The "Implementation" part is a reimplementation of the sift algorithm, performed
 
 Theory, explanations and description of the code are available in description_du_code.pdf
 
-
-![Alt text](/Description_du_code.pdf)
 ![Alt text](/images/Description_du_code-1.jpg)
+![Alt text](/images/Description_du_code-2.jpg)
+![Alt text](/images/Description_du_code-3.jpg)
+![Alt text](/images/Description_du_code-4.jpg)
+![Alt text](/images/Description_du_code-5.jpg)
 
